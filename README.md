@@ -3,10 +3,10 @@
 This project scrapes product data from Flipkart using Python. It utilizes requests and BeautifulSoup to extract relevant information from search results.
 
 ## Features
--Scrapes product details from Flipkart
--Uses BeautifulSoup for parsing HTML
--Implements logging for debugging
--Stores data in a structured format
+'Scrapes product details from Flipkart'
+'Uses BeautifulSoup for parsing HTML'
+'Implements logging for debugging'
+'Stores data in a structured format'
 
 ## Overview
 The project scrapes data from Flipkart using requests and BeautifulSoup.
@@ -15,6 +15,8 @@ It uses urllib.request to open URLs automatically.
 Logging is included for debugging purposes.
 
 ## Dependencies
--requests
--beautifulsoup4
--urllib3
+- `requests`
+- `BeautifulSoup`
+- `urllib.request`
+- `logging`
+
